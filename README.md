@@ -8,6 +8,7 @@ This project is a real-time chat application built using the MERN (MongoDB, Expr
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [API Endpoints](#api-endpoints)
+- [WebSocket Endpoints](#websocket-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
 
